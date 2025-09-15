@@ -1,0 +1,6 @@
+[submodule "front"]
+	path = front
+	url = git@gitlab.com:ORG/FRONT_REPO.git
+[submodule "back"]
+	path = back
+	url = git@gitlab.com:ORG/FRONT_REPO.git
